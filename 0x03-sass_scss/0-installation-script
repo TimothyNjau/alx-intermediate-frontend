@@ -1,0 +1,4 @@
+To install SASS in my laptop, I leveraged npm, the Node Package Manager.
+Run the following code: npm install sass -v 3.7.4.
+This will install the Sass whose version is 3.7.4
+You can also run the following: npm install sass
