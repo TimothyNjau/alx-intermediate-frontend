@@ -1,0 +1,14 @@
+@mixin bodyMargins() {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@mixin divMargins() {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+body {
+    @include bodyMargins();
+}
+div {
+    @include divMargins();
+}
